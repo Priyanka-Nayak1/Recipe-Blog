@@ -1,6 +1,7 @@
 # Recipe Blog - Using Node.js and MongoDB
 
 Welcome to MyRecipeBlog! This is a simple and elegant platform where you can share your favorite recipes with the world.
+Deployment link: https://recipe-blog-1-mko9.onrender.com
 
 # Features
 
@@ -25,6 +26,7 @@ Create a .env file to store your MongoDB database credentials
 ```
 MONGODB_URI = mongodb+srv://<username>:<password>@cluster0.6m5cz.mongodb.net/Recipes?retryWrites=true&w=majority
 ```
+
 
 ## Installation
 
